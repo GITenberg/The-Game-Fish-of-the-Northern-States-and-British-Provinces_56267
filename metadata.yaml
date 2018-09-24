@@ -1,0 +1,23 @@
+_repo: The-Game-Fish-of-the-Northern-States-and-British-Provinces_56267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Robert Barnwell
+    birthdate: 1829
+    deathdate: 1906
+    gutenberg_agent_id: '48218'
+    url: http://www.gutenberg.org/2009/agents/48218
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Roosevelt
+description: ''
+gutenberg_issued: '2017-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Game Fish, of the Northern States and British Provinces
+url: http://www.gutenberg.org/ebooks/56267
